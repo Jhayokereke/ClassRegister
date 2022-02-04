@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\ClassRegister\ClassRegister\bin\Debug\net5.0\ClassRegister.exe
+C:\Users\hp\source\repos\ClassRegister\ClassRegister\bin\Debug\net5.0\ClassRegister.deps.json
+C:\Users\hp\source\repos\ClassRegister\ClassRegister\bin\Debug\net5.0\ClassRegister.runtimeconfig.json
+C:\Users\hp\source\repos\ClassRegister\ClassRegister\bin\Debug\net5.0\ClassRegister.runtimeconfig.dev.json
+C:\Users\hp\source\repos\ClassRegister\ClassRegister\bin\Debug\net5.0\ClassRegister.dll
+C:\Users\hp\source\repos\ClassRegister\ClassRegister\bin\Debug\net5.0\ref\ClassRegister.dll
+C:\Users\hp\source\repos\ClassRegister\ClassRegister\bin\Debug\net5.0\ClassRegister.pdb
+C:\Users\hp\source\repos\ClassRegister\ClassRegister\obj\Debug\net5.0\ClassRegister.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ClassRegister\ClassRegister\obj\Debug\net5.0\ClassRegister.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\ClassRegister\ClassRegister\obj\Debug\net5.0\ClassRegister.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ClassRegister\ClassRegister\obj\Debug\net5.0\ClassRegister.AssemblyInfo.cs
+C:\Users\hp\source\repos\ClassRegister\ClassRegister\obj\Debug\net5.0\ClassRegister.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ClassRegister\ClassRegister\obj\Debug\net5.0\ClassRegister.dll
+C:\Users\hp\source\repos\ClassRegister\ClassRegister\obj\Debug\net5.0\ref\ClassRegister.dll
+C:\Users\hp\source\repos\ClassRegister\ClassRegister\obj\Debug\net5.0\ClassRegister.pdb
+C:\Users\hp\source\repos\ClassRegister\ClassRegister\obj\Debug\net5.0\ClassRegister.genruntimeconfig.cache
