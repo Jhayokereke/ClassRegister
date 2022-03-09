@@ -2,6 +2,9 @@
 
 namespace ClassRegister
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class DotNetClass 
     {
         public DotNetClass(Student[] students)
@@ -13,6 +16,9 @@ namespace ClassRegister
         public int ClassSize { get; }
         public Student[] Students { get; }
 
+        /// <summary>
+        /// This method displays the details of class members on the console
+        /// </summary>
         public void PrintClassDetails()
         {
             foreach (Student dev in Students)

@@ -9,6 +9,7 @@ namespace ClassRegister
             Id = Guid.NewGuid();
         }
         public Guid Id { get; }
+        public int Age { get; set; }
         public string Firstname { get; set; }
         public string Lastname { get; set; }
         public string Fullname
@@ -20,10 +21,11 @@ namespace ClassRegister
         }
         public Gender Gender { get; set; }
         public string[] Gadgets { get; set; }
+        public string HouseId { get; set; }
 
         public override string ToString()
         {
-            return $"Id: {Id}\nFullname: {Fullname}\nGender: {Gender}\nGadgets: {string.Join(", ", Gadgets)}\n";
+            return $"Id: {Id}\nFullname: {Fullname}\nGender: {Gender}\nAge: {Age}\nGadgets: {string.Join(", ", Gadgets)}\n";
         }
     }
 }
